@@ -1,0 +1,101 @@
+@media screen and (max-width:700px){
+
+/* contact */
+body{
+    overflow: hidden;
+}
+
+/* contact verified */
+.contact{
+    background-color: wheat;
+    width: 350px;
+    height: 300px;
+    margin-left: 5%;
+    margin-top: 2rem;
+    padding-top: 3rem;
+    color: white;
+   
+}
+form{
+    margin-left: 2%;
+}
+input{
+    width: 90%;
+    height: 30px;
+    margin-top: 1rem;
+    border: 2px solid black;
+    outline: none;
+    border-radius: 5px;
+    padding-left: .3rem;
+    margin-left: 1rem;
+}
+textarea{
+    margin-top: 1rem;
+    width: 90%;
+    height: 80px;
+    margin-left: 1rem;
+    padding-left: .3rem;
+}
+form button{
+    margin-left:35%;
+    padding-top: 5px;
+    padding-bottom: 20px;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: red;
+    color: whitesmoke;
+
+}
+.con{
+    margin-top: 2rem;
+    margin-left: 30%;
+}
+
+
+
+}
+contact verified  
+.contact{
+    background-color: wheat;
+    width: 700px;
+    height: 400px;
+    margin-left: 25%;
+    margin-top: 2rem;
+    padding-top: 3rem;
+    color: white;
+   
+}
+form{
+    margin-left: 20%;
+}
+input{
+    width: 80%;
+    height: 30px;
+    margin-top: 1rem;
+    border: 2px solid black;
+    outline: none;
+    border-radius: 5px;
+    padding-left: .3rem;
+}
+textarea{
+    margin-top: 1rem;
+    width: 80%;
+    height: 80px;
+    padding-left: .3rem;
+}
+form button{
+    margin-left: 30%;
+    padding-top: 5px;
+    padding-bottom: 20px;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: red;
+    color: whitesmoke;
+
+}
+.con{
+    margin-top: 2rem;
+    margin-left: 45%;
+ } 
